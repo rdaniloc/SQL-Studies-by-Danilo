@@ -1,0 +1,17 @@
+# Ignorar arquivos e pastas do sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignorar pastas comuns
+AppData/
+.vscode/
+.idea/
+node_modules/
+__pycache__/
+*.ipynb_checkpoints/
+
+# Ignorar arquivos CSV (se não forem necessários)
+*.csv
